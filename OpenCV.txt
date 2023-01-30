@@ -1,0 +1,5 @@
+https://youtu.be/-RtVZsCvXAQ?list=PLS1QulWo1RIa7D1O6skqDQ-JZ1GGHKK-K 
+
+OpenCV Python Tutorial For Beginners 4 - How to Read, Write, Show Videos from Camera in OpenCV
+
+https://gist.github.com/pknowledge/86a148c6cd5f0f2820ba81561cc00a8e
