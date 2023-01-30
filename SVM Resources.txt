@@ -1,0 +1,37 @@
+SVM using python code
+
+ Implementing Support Vector Machine Classifier from Scratch in Python
+
+https://youtu.be/5egiXYde6PY
+
+https://colab.research.google.com/drive/1nw3Cxy00W1Jpkd1Kmv9hhux6Euz9omNl?usp=sharing
+
+https://colab.research.google.com/drive/1kytYBQdRFZ0X-uFvbg8FHYLuLvyv6iWz?usp=sharing
+
+https://www.dropbox.com/s/uh7o7uyeghqkhoy/diabetes.csv?dl=0
+
+2
+------------------------------------------------------
+https://github.com/krishnaik06/SVM-Kernels/blob/main/SVM%20Kernelss%20Implementation.ipynb 
+
+https://youtu.be/dl_ZsuHSIFE 
+
+
+
+------------------------------------------------------
+
+3
+------------------------------------------------------
+https://github.com/codebasics/py/blob/master/ML/10_svm/10_svm.ipynb 
+
+
+https://youtu.be/FB5EdxAGxQg
+
+
+------------------------------------------------------
+
+4
+
+https://github.com/campusx-official/Support-Vector-Machines-SVM-/blob/master/SVM%20Demo.ipynb 
+
+https://youtu.be/-YheUIO_6UA 
