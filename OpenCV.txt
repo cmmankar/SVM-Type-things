@@ -2,4 +2,23 @@ https://youtu.be/-RtVZsCvXAQ?list=PLS1QulWo1RIa7D1O6skqDQ-JZ1GGHKK-K
 
 OpenCV Python Tutorial For Beginners 4 - How to Read, Write, Show Videos from Camera in OpenCV
 
-https://gist.github.com/pknowledge/86a148c6cd5f0f2820ba81561cc00a8e
+https://gist.github.com/pknowledge/86a148c6cd5f0f2820ba81561cc00a8e 
+
+
+--- [ 1 ] --Start------------------------------------
+https://github.com/Kent-Taylor/object-detection/blob/main/main.py 
+https://github.com/Kent-Taylor/object-detection 
+
+https://youtu.be/V62M9d8QkYM 
+
+SalteeKiller YouTube channel
+--- [ 1 ] --Ends------------------------------------
+
+--- [ 2 ] --Start------------------------------------
+https://youtu.be/8VdiZWQP_a0 
+
+https://github.com/KingArnaiz/Object-Detection-Tutorial 
+
+Object Detection using Python, OpenCV and Deep Learning 
+Pinoydatascientist
+--- [ 3 ] --Ends------------------------------------
