@@ -1,0 +1,6 @@
+Don't Buy Security Camera! Build Your Own || Computer Vision || Open cv tutorial || python project
+
+https://youtu.be/UOIKXp82iEw 
+
+https://github.com/ProgrammingHero1/security_cam/blob/main/main.py 
+
